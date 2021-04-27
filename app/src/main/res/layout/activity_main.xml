@@ -10,14 +10,7 @@
     android:gravity="center">
 
 
-    <EditText
-        android:id="@+id/name"
-        android:layout_width="250dp"
-        android:layout_height="50dp"
-        android:hint="Username"
-        android:singleLine="true"
-        android:textSize="12.5dp"
-        android:layout_marginBottom="5dp"/>
+
     <Button
         android:id="@+id/btnJSON"
         android:layout_width="wrap_content"
